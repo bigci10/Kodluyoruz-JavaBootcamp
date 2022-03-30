@@ -17,7 +17,8 @@ public class Solution {
         if (genre.equals("Korku")) {
             if (age < 18) {
                 System.out.println("Toplam ücret" + (price * 0.90) * 0.90);
-            } else if (age >= 18 && age <= 25) {
+            } 
+            else if (age >= 18 && age <= 25) {
                 System.out.println("Toplam ücret" + (price * 0.95) * 0.90);
             }
         }
