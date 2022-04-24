@@ -16,7 +16,7 @@ public class FlightService {
     
 	
 	
-	@Autowired
+    @Autowired
     FlightDao flightdao;
 
 	public List getAllFlights() {
