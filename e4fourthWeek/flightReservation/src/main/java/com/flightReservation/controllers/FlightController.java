@@ -20,8 +20,8 @@ import com.flightReservation.services.FlightService;
 
 public class FlightController {
 	
-	@Autowired
-	FlightService flightService;
+    @Autowired
+    FlightService flightService;
 
     @GetMapping("/flights")
     private List getAllFlights() {
