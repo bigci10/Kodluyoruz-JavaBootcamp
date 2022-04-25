@@ -18,7 +18,7 @@ import java.util.Date;
 @Data
 
 public class Flight {
-    // http://localhost:8097/h2-console/
+
 
 
 	@Id
