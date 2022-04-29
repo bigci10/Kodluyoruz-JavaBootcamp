@@ -22,9 +22,9 @@ public class Seats {
 	
 	private String seatNumber;
     
-    private int planeFk;
+    	private int planeFk;
     
-    private int passengerFk;
+    	private int passengerFk;
 
 	public int getId() {
 		return id;
