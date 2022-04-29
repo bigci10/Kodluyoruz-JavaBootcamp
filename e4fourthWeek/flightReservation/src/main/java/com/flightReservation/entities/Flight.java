@@ -34,13 +34,14 @@ public class Flight {
 	
 	private String destinationLocation;
 	
-    private String dateOfDeparture;
+    	private String dateOfDeparture;
     
-    private String departureTime;
+    	private String departureTime;
     
-    private int planeFk;
+    	private int planeFk;
     
-	public Flight() {}
+	public Flight() {
+	}
 	
 	public int getId() {
 		return id;
