@@ -26,6 +26,7 @@ import lombok.Data;
 @Data
 public class Passenger {
 	
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
@@ -34,16 +35,16 @@ public class Passenger {
 	
 	private String lastName;
 	
-    private int age;
+    	private int age;
 	
-    private String email;
+    	private String email;
     
-    public Passenger(String firstName, String lastName, int age,String email) {
-    	this.firstName = firstName;
-    	this.firstName = lastName;
-    	this.age = age;
-    	this.email = email;
-    }
+    	public Passenger(String firstName, String lastName, int age,String email) {
+    		this.firstName = firstName;
+    		this.firstName = lastName;
+    		this.age = age;
+    		this.email = email;
+    	}
 	
 	public Passenger() {}
 
