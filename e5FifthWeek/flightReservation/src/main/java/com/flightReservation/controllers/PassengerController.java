@@ -19,12 +19,6 @@ public class PassengerController {
 	@Autowired(required = true)
 	IPassengerService passengerService;
 
-	//public PassengerController() throws Exception{
-	//	passengerService.addPassenger(new Passenger("Onur","Başdar",30,"onurbasdar@gmail.com"));
-	//	passengerService.addPassenger(new Passenger("Eyüp","İğci",50,"eyyüpbaba@gmail.com"));
-		
-	
-	//}
 	
 	@PostMapping("/addPassenger")
 	public Passenger addPassenger(@RequestBody Passenger passenger) throws Exception {
