@@ -20,7 +20,7 @@ public class BookingService implements IBookingService{
 
 	@Override
 	public Booking addBooking(Booking booking) throws ExceptionHandlingFlightReservation {
-		// TODO Auto-generated method stub
+	
 		try {
 			return bookingRepository.save(booking);
 		}catch (Exception e){
