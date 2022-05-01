@@ -38,7 +38,6 @@ public class FlightService implements IFlightService {
 
 	@Override
 	public Iterable<Flight> viewAllFlight() {
-		// TODO Auto-generated method stub
 		return flightRepository.findAll();
 	}
 
