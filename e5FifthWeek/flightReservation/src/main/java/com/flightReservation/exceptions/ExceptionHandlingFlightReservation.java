@@ -1,4 +1,4 @@
-package com.exceptions;
+import com.flightReservation.exceptions.*;
 
 public class ExceptionHandlingFlightReservation extends RuntimeException {
 	public ExceptionHandlingFlightReservation(String message) {
