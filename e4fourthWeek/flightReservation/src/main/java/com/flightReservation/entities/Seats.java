@@ -13,7 +13,6 @@ import lombok.Data;
 
 @Entity
 @Table
-@Data
 public class Seats {
 	
 	@Id
