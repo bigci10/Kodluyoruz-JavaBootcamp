@@ -20,7 +20,6 @@ import lombok.Data;
 
 @Entity
 @Table
-@Data
 public class Flight {
 	
 	@Id
