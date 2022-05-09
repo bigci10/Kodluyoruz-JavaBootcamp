@@ -6,6 +6,16 @@
 * In this project I developed, I made the Employee Management System using Spring.
 * You can go to this address to start "http://localhost:8080/".
 
+# Technologies
+*Spring Data JPA
+*Lombok
+*Rest API
+
+# Installation
+   ```
+   https://github.com/DRC-JAVA-Bootcamp/bitirme-projesi-bigci10.git
+   ```
+
 
 # How it works 
    # 1. Create Department
