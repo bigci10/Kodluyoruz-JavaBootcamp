@@ -7,9 +7,9 @@
 * You can go to this address to start "http://localhost:8080/".
 
 # Technologies
-*Spring Data JPA
-*Lombok
-*Rest API
+* Spring Data JPA
+* Lombok
+* Rest API
 
 # Installation
    ```
