@@ -43,3 +43,10 @@
 
 ![4 1](https://user-images.githubusercontent.com/70436168/199691110-c7aeb00c-2e20-47cf-9441-2d59929c9bf4.png)
 
+   # 5.Choose Seats
+   
+   ![5](https://user-images.githubusercontent.com/70436168/199692181-0e3a9da9-c7ec-4f56-abe5-f2783620f571.png)
+
+*After choose seats, the database automatically defines an ID  for this seat(We will do some of our operations on this ID.)
+
+![5 1](https://user-images.githubusercontent.com/70436168/199692342-90c581b8-7db2-4dc2-ab6d-e5f310554e0d.png)
