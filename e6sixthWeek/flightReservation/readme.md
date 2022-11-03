@@ -83,6 +83,23 @@
    ![flight5](https://user-images.githubusercontent.com/70436168/199695389-20fa33c2-cd39-440a-8791-1b0f079a3882.png)
 
 
+# Passenger Operations
+   ```
+   Add
+   Remove
+   Update
+   viewAll
+   viewById
+   ```
+   
+   ![pas1](https://user-images.githubusercontent.com/70436168/199696344-4854c19b-f4aa-4882-9b13-301cf3fcb758.png)
+   ![pas2](https://user-images.githubusercontent.com/70436168/199696394-80eadf92-d62b-4aed-a07b-7266c9d00411.png)
+   ![pas3](https://user-images.githubusercontent.com/70436168/199696415-bb11d8e2-b4c6-4fad-86eb-d9b06181031a.png)
+   ![pas4](https://user-images.githubusercontent.com/70436168/199696430-02642be8-aa5d-478f-bd96-fb7db32cefd2.png)
+   ![pas5](https://user-images.githubusercontent.com/70436168/199696473-b3d1c145-aec4-4c07-9e1d-4727b93fa0a1.png)
 
 
+
+
+   
 
