@@ -99,6 +99,24 @@
    ![pas5](https://user-images.githubusercontent.com/70436168/199696473-b3d1c145-aec4-4c07-9e1d-4727b93fa0a1.png)
 
 
+# Booking Operations
+   ```
+   Add
+   Remove
+   Update
+   viewAll
+   viewById
+   ```
+   
+   ![book1](https://user-images.githubusercontent.com/70436168/199697379-191fc04e-33bd-4f9e-b658-8de85ca1a1bc.png)
+   ![book2](https://user-images.githubusercontent.com/70436168/199697397-2862f62e-25eb-4bf7-b13e-6144ac846348.png)
+   ![book3](https://user-images.githubusercontent.com/70436168/199697418-ce115ffd-bca5-4550-b67a-ab3fc8e4763b.png)
+   ![book4](https://user-images.githubusercontent.com/70436168/199697436-8d685414-2c3b-47f3-934f-38dbee22f21f.png)
+   ![book5](https://user-images.githubusercontent.com/70436168/199697458-aaf1ebb0-101c-4268-b41f-6287cc5f6383.png)
+
+   
+
+
 
 
    
