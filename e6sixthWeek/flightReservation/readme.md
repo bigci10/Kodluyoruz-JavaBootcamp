@@ -67,3 +67,22 @@
    ![plane4](https://user-images.githubusercontent.com/70436168/199693980-8b0458c2-259a-42a2-8550-20f60bc1eb6d.png)
 
    
+# Flight Operations
+   ```
+   Add
+   Remove
+   Update
+   viewAll
+   viewById
+   ```
+   
+   ![flight1](https://user-images.githubusercontent.com/70436168/199695250-9b44d7eb-eaf1-40a1-b05a-771e1db1080c.png)
+   ![flight2](https://user-images.githubusercontent.com/70436168/199695285-e38b5eaf-cdc0-4fc0-9745-ab62d26c168c.png)
+   ![flight3](https://user-images.githubusercontent.com/70436168/199695331-ed75685a-6641-4b88-8ae4-e7a65fd14ebe.png)
+   ![flight4](https://user-images.githubusercontent.com/70436168/199695354-423bc669-bbb9-4eb6-9ce9-f760b2dafe9e.png)
+   ![flight5](https://user-images.githubusercontent.com/70436168/199695389-20fa33c2-cd39-440a-8791-1b0f079a3882.png)
+
+
+
+
+
