@@ -50,3 +50,20 @@
 *After choose seats, the database automatically defines an ID  for this seat(We will do some of our operations on this ID.)
 
 ![5 1](https://user-images.githubusercontent.com/70436168/199692342-90c581b8-7db2-4dc2-ab6d-e5f310554e0d.png)
+
+
+
+# Plane Operations
+   ```
+   Add
+   Remove
+   viewAll
+   viewById
+   ```
+
+   ![plane1](https://user-images.githubusercontent.com/70436168/199693906-5af728b9-a7c8-42a5-8aeb-5beff640fc37.png)
+   ![plane2](https://user-images.githubusercontent.com/70436168/199693939-b01c355a-7d02-4b8e-880e-ec78068eef87.png)
+   ![plane3](https://user-images.githubusercontent.com/70436168/199693952-8cd425f8-00e0-4f5a-8d67-ae37377338ec.png)
+   ![plane4](https://user-images.githubusercontent.com/70436168/199693980-8b0458c2-259a-42a2-8550-20f60bc1eb6d.png)
+
+   
